@@ -8,7 +8,7 @@ subtitle: "代码在手，天下我有"
 description: "前端小菜鸟的技术博客"
 keywords:
 author: Will
-language: zh-CN
+language: en
 timezone: ""
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
